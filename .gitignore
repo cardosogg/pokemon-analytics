@@ -1,0 +1,15 @@
+# Ambientes virtuais e dependências
+.venv/
+__pycache__/
+*.pyc
+
+# Ficheiros de ambiente e senhas
+.env
+config/.env
+
+# Logs do Airflow
+logs/
+
+# Dados temporários e datasets locais
+data/*.parquet
+data/*.json
