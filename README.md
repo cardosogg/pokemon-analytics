@@ -1,10 +1,10 @@
-# ⚡ Pokémon Analytics Dashboard
+# Pokémon Analytics Dashboard
 
 > Um pipeline de Engenharia de Dados de ponta a ponta que extrai dados da PokéAPI, orquestra o fluxo com Apache Airflow, armazena-os num banco de dados relacional PostgreSQL e disponibiliza um dashboard interativo construído em Streamlit.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Linguagem:** Python 3.10+
 * **Orquestração:** Apache Airflow
@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 Arquitetura do Projeto
+## Arquitetura do Projeto
 
 1. **Extração & Carga (ETL):** Recolha de dados detalhados dos Pokémon a partir da [PokéAPI](https://pokeapi.co/).
 2. **Orquestração:** Automação e agendamento das tarefas de engenharia de dados através de DAGs do Apache Airflow.
@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Como Executar o Projeto Localmente
+## Como Executar o Projeto Localmente
 
 ### 1. Pré-requisitos
 * Ter o [Docker](https://www.docker.com/) e o Docker Compose instalados.
