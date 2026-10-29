@@ -32,6 +32,5 @@
 * Ter o Python instalado com o ambiente virtual configurado.
 
 ### 2. Clonar o Repositório
-```bash
-git clone [https://github.com/O-SEU-UTILIZADOR/pokemon-analytics.git](https://github.com/O-SEU-UTILIZADOR/pokemon-analytics.git)
+git clone https://github.com/cardosogg/pokemon-analytics.git
 cd pokemon-analytics
